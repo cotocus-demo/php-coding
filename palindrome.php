@@ -88,7 +88,7 @@ if ($num== $rev) {
     		if (!empty($message)) {
     		?>
     		<div class="row">
-    			<h3> Enter no is <?php echo $message; ?></h3> 
+    			<h3> Enter number is <?php echo $message; ?></h3> 
     		</div>
     		<div class="row">
     			<h3>This is palindrome number: <?php echo $message1; ?></h3> 
